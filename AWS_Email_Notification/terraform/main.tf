@@ -63,7 +63,7 @@ resource "aws_lambda_function" "email_sender_lambda" {
       EMAIL_SMTP_SERVER = "smtp.gmail.com"
       EMAIL_SMTP_PORT   = "587"
       EMAIL_USERNAME    = "jeisonjosedelossantos@gmail.com"
-      EMAIL_PASSWORD    = "lhdu efgu luoa zxuw"
+      EMAIL_PASSWORD    = "la clave como es privada la pondre en la presentacion de la tarea aqui estara vacia"
     }
   }
 }
